@@ -12,10 +12,9 @@ f_date =today.strftime("%d/%m/%Y")
 print(f_date)
 
 
-# subscribtion
+# subscription
 expiry_date = today + timedelta(days=30)
 print(expiry_date)
-
 
 
 

@@ -152,6 +152,8 @@ top_10 = top_10_scores[0:10]
 print(top_10)
 print(s['names'], s['total'])
 
+
+# TODO hello put something
 last_ten = sorted(scores, key=lambda k: k['total'], reverse=True)[-10:]
 for s in last_ten:
     print(s['names'], s['total'])

@@ -16,6 +16,8 @@ h = input("Enter your height in meters")
 print(type(w))
 
 
+#TODO hello, put something
+
 weight = float(w)
 height = float(h)
 print(type(weight))
